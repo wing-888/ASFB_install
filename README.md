@@ -3,9 +3,9 @@
 [<img src="https://img.shields.io/docker/pulls/flaviostutz/freepbx"/>](https://hub.docker.com/r/flaviostutz/freepbx)
 [<img src="https://img.shields.io/docker/automated/flaviostutz/freepbx"/>](https://hub.docker.com/r/flaviostutz/freepbx)
 
-FreePBX container image for running a complete Asterisk server.
+FreePBX容器映像，用于运行完整的Asterisk服务器。
 
-With this container you can create a telephony system in your office or house with integration among various office branches and integration to external VOIP providers with features such as call recording and IVR (interactive voice response) Menus.
+有了这个容器，你可以在你的办公室或家里创建一个电话系统，集成在不同的办公室分支机构和集成到外部 VOIP 供应商的功能，如呼叫记录和 IVR (交互式语音响应)菜单。
 
 If "Apply" is taking too long, disable "Module signature check" (if you know what you're doing).
 
